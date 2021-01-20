@@ -1,3 +1,1 @@
-Name: Gbetondji Jean-Sebastien Alexandre Dovonon
-Background: Bsc Computer Science at Ashesi University in Ghana
-Interest: Transfer learning, Meta learning, Neural Architecture Search
+I'm setting up my github
