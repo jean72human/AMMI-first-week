@@ -1,1 +1,0 @@
-# AMMI-first-week
